@@ -1,7 +1,7 @@
-// This program demonstrates basic IPC with Go
 // Name: Neel Ranawat
 // KSUID: 000988101
 // Class: CS 4308 W03 Spring 2025
+// This program demonstrates basic IPC with Go
 package main
 
 import (
