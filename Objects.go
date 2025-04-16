@@ -1,7 +1,7 @@
-// demonstrates objects in Go
 // Name: Neel Ranawat
 // KSUID: 000988101
 // Class: CS 4308 W03 Spring 2025
+// demonstrates objects in Go
 package main
 
 import "fmt"
