@@ -1,5 +1,7 @@
 # This program showcases dictionaries in Julia
-
+# Name: Neel Ranawat
+# KSUID: 000988101
+# Class: CS 4308 W03 Spring 2025
 Storage = Dict(
     "Unit A"=>"Baseball Bats",
     "Unit B"=>"Old Furniture",
